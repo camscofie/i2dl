@@ -47,7 +47,7 @@ class Dummy(Network):
         :param x: The input to the network
         :return: set x to any integer larger than 59 to get passed
         """
-
+        x = 100;
         ########################################################################
         # TODO                                                                 #
         # Implement the dummy machine function.                                #
